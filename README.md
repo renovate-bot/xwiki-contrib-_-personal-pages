@@ -4,7 +4,7 @@ Personal pages for every XWiki user, along the lines of the
 [Personal Pages design proposal](https://design.xwiki.org/xwiki/bin/view/Proposal/PersonalPages).
 Users create their own pages with one click; administrators choose where they are created and who can read them.
 
-* Project Lead: [Karsten Sandmand](https://github.com/KiloNiner)
+* Project Lead: [Karsten Sandmand](https://www.xwiki.org/xwiki/bin/view/XWiki/KiloNiner)
 * [Documentation & Download](https://extensions.xwiki.org/xwiki/bin/view/Extension/Personal%20Pages%20Application/) (after publication)
 * [Issue Tracker](https://jira.xwiki.org/browse/PERSONALPG)
 * Communication: [Forum](https://forum.xwiki.org/), [Chat](https://dev.xwiki.org/xwiki/bin/view/Community/Chat)
