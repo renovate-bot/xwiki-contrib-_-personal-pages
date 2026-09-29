@@ -37,10 +37,9 @@
   <scm>
     <connection>scm:git:git://github.com/xwiki-contrib/personal-pages.git</connection>
     <developerConnection>scm:git:git@github.com:xwiki-contrib/personal-pages.git</developerConnection>
-    <url>https://github.com/xwiki-contrib/personal-pages/tree/main</url>
+    <url>https://github.com/xwiki-contrib/personal-pages/tree/master</url>
     <tag>HEAD</tag>
   </scm>
-  <!-- The issue tracker is assigned by the XWiki team when the contrib project is accepted. -->
   <issueManagement>
     <system>jira</system>
     <url>https://jira.xwiki.org/browse/PERSONALPG</url>

@@ -6,14 +6,14 @@ Users create their own pages with one click; administrators choose where they ar
 
 * Project Lead: [Karsten Sandmand](https://github.com/KiloNiner)
 * [Documentation & Download](https://extensions.xwiki.org/xwiki/bin/view/Extension/Personal%20Pages%20Application/) (after publication)
-* [Issue Tracker](https://jira.xwiki.org/browse/PERSONALPG) (assigned when the contrib project is accepted)
+* [Issue Tracker](https://jira.xwiki.org/browse/PERSONALPG)
 * Communication: [Forum](https://forum.xwiki.org/), [Chat](https://dev.xwiki.org/xwiki/bin/view/Community/Chat)
 * [Development Practices](https://dev.xwiki.org)
 * Minimal XWiki version supported: XWiki 16.10.0
 * License: LGPL 2.1
 * Translations: N/A
 * Sonar Dashboard: N/A
-* Continuous Integration Status: [![Build](https://github.com/KiloNiner/personal-pages/actions/workflows/build.yml/badge.svg)](https://github.com/KiloNiner/personal-pages/actions/workflows/build.yml) (GitHub Actions, until the project moves to xwiki-contrib)
+* Continuous Integration Status: [![Build Status](https://ci.xwiki.org/job/XWiki%20Contrib/job/personal-pages/job/master/badge/icon)](https://ci.xwiki.org/job/XWiki%20Contrib/job/personal-pages/job/master/) (ci.xwiki.org), [![Build](https://github.com/xwiki-contrib/personal-pages/actions/workflows/build.yml/badge.svg)](https://github.com/xwiki-contrib/personal-pages/actions/workflows/build.yml) (GitHub Actions)
 
 ## Features
 

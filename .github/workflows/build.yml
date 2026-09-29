@@ -1,5 +1,5 @@
 # Builds the extension on every push and pull request: runs XWiki's XAR checks and attaches the installable .xar
-# to the run. Once the project is hosted in xwiki-contrib, ci.xwiki.org builds it from the Jenkinsfile as well.
+# to the run. ci.xwiki.org also builds it from the Jenkinsfile.
 name: Build
 
 on:
