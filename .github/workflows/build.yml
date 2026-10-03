@@ -17,7 +17,7 @@ jobs:
       - uses: actions/setup-java@v6
         with:
           distribution: temurin
-          java-version: '21'
+          java-version: '27'
           cache: maven
       - name: Build and verify the XAR
         run: mvn --batch-mode --no-transfer-progress --settings settings.xml clean install
